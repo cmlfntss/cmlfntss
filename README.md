@@ -1,4 +1,14 @@
-💻 Futura Analista de Sistemas.
+👾 Oi, meu nome é Camila, e sou estudante de **Análise e Desenvolvimento de Sistemas** pela USJT, além disso curso **Tecnologia em Segurança da 
+Informação** pela IESB e busco vagas de JR ou estágio para Front-End e Back-End.
 
-💻 Aprendiz em Python 🐍, arranhando em JS, HTML e CSS.
+💻 **Habilidades:**
+HTML, CSS, JavaScript, Python, Bootstrap e MySQL. 
 
+‍🚀 **Ferramentas:** 
+VSCODE, Pycharm, Notepad++, Workbench Git e GitHub
+
+[![Twitter Badge](https://img.shields.io/badge/-@cmlfntss-ffa500?style=flat-square&labelColor=ffa500&logo=twitter&logoColor=white&link=https://twitter.com/cmlfntss)](https://twitter.com/cmlfntss)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Camila%20Fontes-ffa500?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilafontes/)](https://www.linkedin.com/in/camilafontes/)
+
+[![Gmail Badge](https://img.shields.io/badge/-camiladejesusfontes@gmail.com-ffa500?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladejesusfontes@gmail.com-)](mailto:camiladejesusfontes@gmail.com-)
