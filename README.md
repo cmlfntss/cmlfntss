@@ -7,8 +7,8 @@ HTML, CSS, JavaScript, Python, Bootstrap e MySQL.
 ‍🚀 **Ferramentas:** 
 VSCODE, Pycharm, Notepad++, Workbench Git e GitHub
 
-[![Twitter Badge](https://img.shields.io/badge/-@cmlfntss-ffa500?style=flat-square&labelColor=ffa500&logo=twitter&logoColor=white&link=https://twitter.com/cmlfntss)](https://twitter.com/cmlfntss)
+[![Twitter Badge](https://img.shields.io/badge/-@cmlfntss-DC143C?style=flat-square&labelColor=DC143C&logo=twitter&logoColor=white&link=https://twitter.com/cmlfntss)](https://twitter.com/cmlfntss)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camila%20Fontes-ffa500?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilafontes/)](https://www.linkedin.com/in/camilafontes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Camila%20Fontes-DC143C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilafontes/)](https://www.linkedin.com/in/camilafontes/)
 
-[![Gmail Badge](https://img.shields.io/badge/-camiladejesusfontes@gmail.com-ffa500?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladejesusfontes@gmail.com-)](mailto:camiladejesusfontes@gmail.com-)
+[![Gmail Badge](https://img.shields.io/badge/-camiladejesusfontes@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladejesusfontes@gmail.com-)](mailto:camiladejesusfontes@gmail.com-)
