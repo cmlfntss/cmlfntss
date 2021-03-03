@@ -1,5 +1,5 @@
 👾 Oi, meu nome é Camila, e sou estudante de **Análise e Desenvolvimento de Sistemas** pela USJT, além disso curso **Tecnologia em Segurança da 
-Informação** pela IESB e busco vagas de JR ou estágio para Front-End e Back-End.
+Informação** pela UAM e busco vagas de JR ou estágio para Front-End e Back-End.
 
 💻 **Habilidades:**
 HTML, CSS, JavaScript, Python, Bootstrap e MySQL. 
