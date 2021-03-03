@@ -1,4 +1,4 @@
-👾 Oi, meu nome é Camila, e sou estudante de **Análise e Desenvolvimento de Sistemas** pela USJT, além disso curso **Tecnologia em Segurança da 
+👾 Oi, eu sou a Camila, mas pode me chamar de **Camis** e sou estudante de **Análise e Desenvolvimento de Sistemas** pela USJT, além disso curso **Tecnologia em Segurança da 
 Informação** pela UAM e busco vagas de JR ou estágio para Front-End e Back-End.
 
 💻 **Habilidades:**
